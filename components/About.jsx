@@ -12,19 +12,18 @@ function About() {
           </p>
           <h2 className="py-4">Who I am</h2>
           <p className="py-2 text-gray-600">
-            Hello there! I am Ariel, a passionate front-end developer with
-            a keen eye for design and a strong dedication to creating
-            exceptional user experiences. With 2 years of experience in
-            the field, I have honed my skills in HTML, CSS, and JavaScript to
-            transform creative concepts into functional and visually appealing
-            websites. I thrive on tackling challenges head-on and constantly
-            stay updated with the latest web development trends and
-            technologies. From wireframing and prototyping to implementing
-            responsive designs, I strive to craft elegant and intuitive
-            interfaces that not only engage users but also deliver seamless
-            navigation. Alongside my technical expertise, I value collaboration
-            and effective communication, working closely with clients and
-            multidisciplinary teams to ensure project success.
+            Hello there! I am Ariel, a passionate front-end developer with a
+            keen eye for design and a strong dedication to creating exceptional
+            user experiences. With 2 years of experience in the field, I have
+            honed my skills in HTML, CSS, and JavaScript to transform creative
+            concepts into functional and visually appealing websites. I thrive
+            on tackling challenges head-on and constantly stay updated with the
+            latest web development trends and technologies. From wireframing and
+            prototyping to implementing responsive designs, I strive to craft
+            elegant and intuitive interfaces that not only engage users but also
+            deliver seamless navigation. Alongside my technical expertise, I
+            value collaboration and effective communication, working closely
+            with clients and multidisciplinary teams to ensure project success.
           </p>
           <p className="py-2 text-gray-600">
             Through my work, I aim to blend aesthetics with usability, creating
@@ -41,7 +40,7 @@ function About() {
             className="rounded-xl"
             width="500"
             height="500"
-            src="/../public/images/laptopBlack.png"
+            src="/images/laptopBlack.png"
             alt="laptop black"
           />
         </div>

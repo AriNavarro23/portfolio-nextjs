@@ -15,7 +15,6 @@ const Contact = () => {
         </p>
         <h2 className="py-4">Get In Touch</h2>
         <div className="grid lg:grid-cols-5 gap-8">
-          
           <div className="col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4">
             <div className="lg:p-4 h-full">
               <div>
@@ -23,7 +22,7 @@ const Contact = () => {
                   className="rounded-xl hover:scale-105 ease-in w-auto h-auto duration-300"
                   width={400}
                   height={400}
-                  src="/../public/images/contact.png"
+                  src="/images/contact.png"
                   alt="laptop telphone"
                 />
               </div>
